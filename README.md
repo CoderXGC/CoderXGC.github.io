@@ -57,8 +57,7 @@
 - **加群交流**
 
   本群的宗旨是给大家提供一个良好的技术学习交流平台，备注：`学习加群`。
-
-    <img src="https://i.loli.net/2021/11/29/Rm1SX7JWPBEDsat.png" width="200" height="200"/>
+![](https://i.loli.net/2021/11/29/Rm1SX7JWPBEDsat.png)
 
 - **公众号(1024吧)**
 

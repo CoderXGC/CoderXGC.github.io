@@ -46,7 +46,6 @@
 
 ## 三、问题交流
 
-![](https://s2.loli.net/2021/12/30/w8RjzZJMEHthYIA.png)
 
 <br/>
 <div align="center">
@@ -57,11 +56,9 @@
 - **加群交流**
 
   本群的宗旨是给大家提供一个良好的技术学习交流平台，备注：`学习加群`。
-
-    <img src="https://i.loli.net/2021/11/29/Rm1SX7JWPBEDsat.png" width="180" height="180"/>
+  ![](https://i.loli.net/2021/11/29/Rm1SX7JWPBEDsat.png)
 
 - **公众号(1024吧)**
 
   忠于原创、乐于分享。沉淀、分享、成长，专注于专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。目前已完成的专题有:SpringCloud等。
-
-    <img src="https://s2.loli.net/2021/12/30/w8RjzZJMEHthYIA.png" width="180" height="180"/>
+  ![](https://s2.loli.net/2021/12/30/w8RjzZJMEHthYIA.png)

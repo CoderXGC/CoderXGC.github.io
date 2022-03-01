@@ -2,7 +2,7 @@
 - :memo: 目录
     - SpringCloudAlibaba：
 
-        - [第1节：](/md/SpringCloudAlibaba/【SpringCloud-Alibaba】环境搭建以及注意事项.md.md)
+        - [第1节：](/md/SpringCloudAlibaba/【SpringCloud-Alibaba】环境搭建以及注意事项.md)
        
 
        

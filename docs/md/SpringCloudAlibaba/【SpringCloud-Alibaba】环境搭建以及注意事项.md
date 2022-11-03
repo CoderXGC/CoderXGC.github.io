@@ -57,6 +57,6 @@ Maven工程
 ![7.png](c9fe3e4b99314d53a31c3c5728b1f68a.png)
 这个我们一个springcloud的简单环境搭建就好了。
 后期会在这个项目上不断添加，喜欢的请点个start~
-项目源码参考一下分支220118_xgc_initProject
-Gitee：https://gitee.com/coderxgc/springcloud-alibaba
-GitHub：https://github.com/coderxgc/springcloud-alibaba
+项目源码参考一下分支220118_xgc_initProject  
+Gitee：https://gitee.com/coderxgc/springcloud-alibaba  
+GitHub：https://github.com/coderxgc/springcloud-alibaba  
